@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+#set -e
 
 ./use_aliyun_kubernetes_yum_source.sh
 

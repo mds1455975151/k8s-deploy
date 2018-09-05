@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+# set -e
 
 echo "###############################################"
 echo "Please ensure your OS is CentOS7 64 bits"

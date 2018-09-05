@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+#set -e
 
 # Uninstall installed docker
 sudo yum remove docker \
